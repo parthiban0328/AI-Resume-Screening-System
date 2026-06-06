@@ -6,7 +6,7 @@ def generate_report(
     missing
 ):
 
-    file_name = "reports/report.pdf"
+    file_name = "report.pdf"
 
     c = canvas.Canvas(
         file_name
